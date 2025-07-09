@@ -1,0 +1,22 @@
+# Interfaz de usuario web
+streamlit==1.44.1
+
+# Variables de entorno y configuración
+python-dotenv==1.1.0
+
+# Framework central para aplicaciones LLM
+langchain==0.3.23
+langchain-core==0.3.51
+
+# Gestión de flujos de trabajo basados en grafos para agentes conversacionales
+langgraph==0.3.29
+
+# Manejo de zonas horarias (utilizado en DateTimeTool)
+pytz==2025.2
+
+# Integración con Google Cloud y Vertex AI
+google-cloud-aiplatform==1.88.0
+langchain-google-vertexai==2.0.20
+
+# Compatibilidad de tipos para anotaciones
+typing-extensions==4.13.2

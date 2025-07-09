@@ -45,11 +45,8 @@ simple_agent/
 
 ### Instalación
 
-1. Clona el repositorio:
-   ```bash
-   git clone ttps://github.com/JSandovalCH/LanggraphTraining.git
-   cd simple_agent
-   ```
+1. Clona el repositorio
+   
 
 2. Instala las dependencias:
    ```bash
@@ -137,11 +134,3 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 6. Abre un Pull Request
 
 ## 📄 Licencia
-
-Este proyecto está licenciado bajo [especificar licencia] - ver el archivo LICENSE.md para más detalles.
-
-## 📞 Contacto
-
-Joshua Sandoval - [jssandoval.ch@gmail.com]
-
-URL del Proyecto: [https://github.com/JSandovalCH/LanggraphTraining/simple_agent](https://github.com/JSandovalCH/LanggraphTraining/simple_agent)

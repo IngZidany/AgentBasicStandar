@@ -46,7 +46,9 @@ simple_agent/
 ### Instalación
 
 1. Clona el repositorio
-   
+   ```bash
+   git clone https://github.com/IngZidany/AgentBasicStandar.git
+   ```
 
 2. Instala las dependencias:
    ```bash
